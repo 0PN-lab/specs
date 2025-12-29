@@ -1,0 +1,79 @@
+# Convention 108+ DPV Extension - RDF/Turtle Vocabulary
+
+This file contains the RDF/Turtle serialization of the Convention 108+ DPV extension vocabulary.
+
+**Filename**: `conv108.ttl`
+
+**Namespace**: `1192`
+
+**Prefix**: `conv108`
+
+**Format**: Turtle (Terse RDF Triple Language)
+
+**Status**: Draft v0.1 (sample)
+
+**Last Updated**: 2025-12-29
+
+**Ready for**: Internal review and RDF validation
+
+---
+
+## Complete Turtle Vocabulary
+
+```
+@prefix conv108: <1193> .
+@prefix dpv: <1194> .
+@prefix dct: <1195> .
+@prefix rdf: <1196> .
+@prefix rdfs: <1197> .
+@prefix skos: <1198> .
+@prefix xsd: <1199> .
+@prefix foaf: <1200> .
+
+# ========================================
+# Ontology Metadata
+# ========================================
+
+<1201> a skos:ConceptScheme ;
+    dct:title "Convention 108+ Extension for Data Privacy Vocabulary"@en ;
+    dct:description "Extension to the W3C Data Privacy Vocabulary (DPV) providing concepts for the Council of Europe Convention 108+"@en ;
+    dct:created "2025-12-29"^^xsd:date ;
+    dct:modified "2025-12-29"^^xsd:date ;
+    dct:creator "Mark Lizar"@en ;
+    dct:contributor "Mark Lizar"@en ;
+    dct:publisher "Digital Transparency Lab"@en ;
+    dct:license <
+```
+
+---
+
+## Notes
+
+**Complete Vocabulary**: This is a representative sample showing the structure and key concepts. The complete `conv108.ttl` file would include:
+
+- All 6 core legal bases with variants (18 total)
+- All 10 special category legal bases (Article 6.2)
+- All transfer mechanisms (Article 14)
+- All 8 rights (Article 9)
+- All 5 principles (Article 5.4)
+- All 8 derivative digital transparency controls
+- Additional notice concepts, compliance statuses, etc.
+- **Total**: 50+ concepts
+
+**Next Steps**:
+
+1. Validate RDF syntax with online validator
+2. Generate RDF/XML and JSON-LD from Turtle
+3. Add to GitHub repository structure
+4. Link from specification document
+
+**ISO/IEC 27560-1 Integration**: Legal basis concepts include corresponding codes for CIR `lawful_basis` field:
+
+- `conv108:A5-2-a` → `"consent"`
+- `conv108:A5-2-b` → `"contract"`
+- `conv108:A5-2-c` → `"legal_obligation"`
+- `conv108:A5-2-d` → `"legitimate_interest"`
+- `conv108:A5-2-e` → `"vital_interest"`
+- `conv108:A5-2-f` → `"public_interest"`
+
+---
