@@ -7,11 +7,21 @@ theme:
   name: material
 
 nav:
-nav:
   - Home: index.md
+
+  - Start here:
+      - DCR v1.2 (Digital Consent, consolidated): unr/dcr/v1.2/index.md
+
   - UNR profile lineage (prerequisite):
       - v1 (submission): unr/v1/index.md
       - v1.01 (baseline): unr/v1.01/index.md
       - v1.1 (working draft): unr/v1.1/index.md
-      - DCR v1.2 (Digital Consent, consolidated): unr/dcr/v1.2/index.md
-      
+
+  - Base standard:
+      - ISO/IEC TS 27560:2023: iso-27560/index.md
+
+  - Well-known locations:
+      - notice.txt: well-known/transparency/notice-txt.md
+
+  - Vocabularies:
+      - OCV: ocv/index.md
