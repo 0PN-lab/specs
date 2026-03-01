@@ -7,14 +7,11 @@ theme:
   name: material
 
 nav:
+nav:
   - Home: index.md
-  - ISO/IEC TS 27560 (base standard): iso-27560.md
-  - UNR profile lineage:
-      - v1 (submission PDF): unr/v1.md
-      - v1.01 (baseline): unr/v1.01.md
-      - v1.1 (working draft): unr/v1.1.md
-      - v1.2 Digital Consent (consolidated): unr/v1.2.md
-  - Well-known locations:
-      - notice.txt: well-known/transparency/notice-txt.md
-  - Vocabularies:
-      - OCV (Operational Constraint Vocabulary): ocv/index.md
+  - UNR profile lineage (prerequisite):
+      - v1 (submission): unr/v1/index.md
+      - v1.01 (baseline): unr/v1.01/index.md
+      - v1.1 (working draft): unr/v1.1/index.md
+      - DCR v1.2 (Digital Consent, consolidated): unr/dcr/v1.2/index.md
+      
