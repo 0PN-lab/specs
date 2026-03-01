@@ -20,7 +20,8 @@ Welcome to the 0PN Lab GitHub, focused on **Digital Public Transparency Infrastr
   [Open UNR v1.1](unr/v1.1/)
 
 ## Governance / updates (non-normative context)
-- 0PN Policy WG posts: https://lab.0pn.org/tag/0pn-policy-wg/
+- [0PN Policy WG posts:](https://lab.0pn.org/tag/0pn-policy-wg/)
+
 
 ## License
-- https://github.com/0PN-lab/specs/blob/main/LICENSE
+- [License](https://github.com/0PN-lab/specs/blob/main/LICENSE)
