@@ -1,7 +1,7 @@
 # ISO/IEC TS 27560:2023 (Base Standard)
 **Privacy technologies — Consent record information structure**
 
-## Start here
+## Start here 
 - ISO catalogue entry (public): https://www.iso.org/standard/80392.html
 
 ## What this standard provides
