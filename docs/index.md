@@ -8,16 +8,18 @@ Welcome to the 0PN Lab GitHub, focused on **Digital Public Transparency Infrastr
 - Treat v1.1 as a **working draft** unless you are participating in a pilot or review.
 
 ## Start here
-- **DCR v1.2 — Digital Consent (Consolidated)**  
-  [Open DCR v1.2](unr/dcr/v1.2/)
+- ** With The international Consent record information structure as the baseline, then each version builds**  
+  [ISO/IEC 27560:2023 TS Consent record information structure](iso-27560/)
 
 ## UNR prerequisite lineage
 - **UNR v1.01 — Baseline**  
   [Open UNR v1.01](unr/v1.01/)
 - **UNR v1 — Submission draft (PDF wrapper)**  
   [Open UNR v1](unr/v1/)
-- **UNR v1.1 — Working draft (enhancement set)**  
+- **UNR v1.1 — Deferred + enhancement set **  
   [Open UNR v1.1](unr/v1.1/)
+- **UNR v1.2 — updates to Digital Consent Record (DCR) information sharing (enhancement set)**  
+  [Open DCR(formally UNR) v1.2](unr/v1.1/)
 
 ## Governance / updates (non-normative context)
 - [0PN Policy WG posts:](https://lab.0pn.org/tag/0pn-policy-wg/)
