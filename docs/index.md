@@ -1,13 +1,18 @@
-# 0PN Lab Specs
+# 0PN Lab Specs 
 
-This portal publishes normative and supporting material for the 0PN Lab ISO/IEC 27560 profile lineage.
+Welcome to the 0PN Lab GitHub, focused on **Digital Public Transparency Infrastructure (DPTI)**. This repository supports implementing the **Convention 108+ Code of Conduct** through an extension profile that publishes the **0PN Lab ISO/IEC TS 27560 profile lineage** and the consolidated **“Digital Consent”** packaging, based on the ISO/IEC 27560 consent record information structure.
+
+**How to use this site**
+- If you want the **best overview**, start with DCR v1.2.
+- If you want the **most stable implementer reference**, start with UNR v1.01.
+- Treat v1.1 as a **working draft** unless you are participating in a pilot or review.
 
 ## Start here
 - **DCR v1.2 — Digital Consent (Consolidated)**  
-  [Open the v1.2 entrypoint](unr/dcr/v1.2/)
+  [Open DCR v1.2](unr/dcr/v1.2/)
 
 ## UNR prerequisite lineage
-- **UNR v1.01 — Baseline (recommended implementer reference)**  
+- **UNR v1.01 — Baseline**  
   [Open UNR v1.01](unr/v1.01/)
 - **UNR v1 — Submission draft (PDF wrapper)**  
   [Open UNR v1](unr/v1/)
@@ -15,7 +20,7 @@ This portal publishes normative and supporting material for the 0PN Lab ISO/IEC 
   [Open UNR v1.1](unr/v1.1/)
 
 ## Governance / updates (non-normative context)
-- **0PN Policy WG posts:** https://lab.0pn.org/tag/0pn-policy-wg/
+- 0PN Policy WG posts: https://lab.0pn.org/tag/0pn-policy-wg/
 
 ## License
 - https://github.com/0PN-lab/specs/blob/main/LICENSE
