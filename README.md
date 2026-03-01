@@ -8,8 +8,32 @@
 
 [![Version: 1.1 Draft](https://img.shields.io/badge/Version-1.1_DRAFT-orange.svg)]([CHANGELOG.md](http://CHANGELOG.md))
 
-> **⚠️ WORKING DRAFT**: v1.1 is under active development (Q1-Q4 2026). For stable implementation, use [v1.01](spec/v1.01/).
-> 
+> **⚠️ WORKING DRAFT**: v1.2 is under active development (Q1-Q4 2026). For stable implementation, use V 1.01
+
+## Start here (recommended reading path)
+
+This repo contains the 0PN Lab profile lineage that extends the ISO/IEC TS 27560:2023 base information structure into deployable transparency-by-default infrastructure.
+
+1) **Base standard (foundation): ISO/IEC TS 27560:2023 — Consent record information structure**  
+   ISO catalogue: https://www.iso.org/standard/80392.html
+
+2) **v1 (UNR) — Universal Notice Receipt (submission draft)**  
+   PDF (submission draft):  
+   https://github.com/0PN-lab/specs/blob/e19ad403f5ee6a200ff65d02913fd854243b356f/27560%20profile%20/v%201%20-%20UNR%20-%20Notice%20Receipt/27560-1%20Universal%20Notice%20Receipt%20v1%20(Draft%20for%20Submission)141225.pdf
+
+3) **v1.01 (UNR) — baseline internal draft (best starting point for implementers)**  
+   Markdown:  
+   https://github.com/0PN-lab/specs/blob/e19ad403f5ee6a200ff65d02913fd854243b356f/27560%20profile%20/v%201.01%20-%20UNR%20-%20Notice%20Receipt/ISO-IEC-27560-1-v1.01.md
+
+4) **v1.1 (UNR Profile) — working draft enhancement set (pilot only)**  
+   Working draft:  
+   https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v1.1/v1.1%20UNRP.md
+
+5) **v1.2 — “Digital Consent (consolidated)” Code of Conduct Profile packaging**  
+   Consolidated draft:  
+   https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v%201.2%20-%20Digital%20Notice%20%26%20Consent%20Profile%20/v1.2%20-%20Digital%20Consent%20(consolidated).md
+
+**Interpretation rule:** v1.2 is a consolidation that assumes the UNR (v1/v1.01) architecture as prerequisite.
 
 ## Overview
 
@@ -81,13 +105,6 @@ Transparency-by-Default (This Spec):
 	CIR published → Individual reviews → Authorization granted → Processing begins
 ```
 
-## Related 0PN Lab Projects (work in Progress)
-
-- 🧪 [**TPI-R Methodology**](https://github.com/0pn-lab/tpi-methodology): Transparency Performance Indicators (regulatory-grade)
-- 🤖 [**0PN-AI**](https://github.com/0pn-lab/0pn-ai): Controller-side transparency machine (Q1-Q2 2026)
-- 🔐 [**Priv8AI**](https://github.com/0pn-lab/priv8ai): Personal-side PII Principal AI (Q2-Q4 2026)
-- 📦 [**Implementation Guides**](https://github.com/0pn-lab/implementation-guides): Project Kits for tiered rollout
-- 🌐 [**ISO/IEC 27560-2**](https://github.com/0pn-lab/iso-27560-2-clean-ai): Clean-AI training data provenance (future)
 
 ## Contributing
 
@@ -127,6 +144,15 @@ See [LICENSE.md](http://LICENSE.md) for full terms.
 **Author**: Mark Lizar, @)0PN Digital Transparency Lab  - A Global Privacy Rights Company
 
 **Chair, Convention 108 Committee Keynote**: [Beatriz de Anchorena](https://0pn.org/events/international-privacy-day-2026)
+
+## Related 0PN Lab Projects (work in Progress)
+
+- 🧪 [**TPI-R Methodology**](https://github.com/0pn-lab/tpi-methodology): Transparency Performance Indicators (regulatory-grade)
+- 🤖 [**0PN-AI**](https://github.com/0pn-lab/0pn-ai): Controller-side transparency machine (Q1-Q2 2026)
+- 🔐 [**Priv8AI**](https://github.com/0pn-lab/priv8ai): Personal-side PII Principal AI (Q2-Q4 2026)
+- 📦 [**Implementation Guides**](https://github.com/0pn-lab/implementation-guides): Project Kits for tiered rollout
+- 🌐 [**ISO/IEC 27560-2**](https://github.com/0pn-lab/iso-27560-2-clean-ai): Clean-AI training data provenance (future)
+
 
 ---
 
