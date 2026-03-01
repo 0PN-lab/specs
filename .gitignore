@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor / temp artifacts (optional, but recommended)
+*.sb-*
