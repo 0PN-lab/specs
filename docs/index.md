@@ -1,5 +1,6 @@
 # 0PN Lab Specs 
 ![0PN Lab](assets/0pn-lab.png)
+![0PN Lab](https://lab.0pn.org/content/images/2026/01/0PN-Lab.png)
 Welcome to the 0PN Lab GitHub, focused on **Digital Public Transparency Infrastructure (DPTI)**. This repository supports implementing the **Convention 108+ Code of Conduct** through an extension profile that publishes the **0PN Lab ISO/IEC TS 27560 profile lineage** and the consolidated **“Digital Consent”** packaging, based on the ISO/IEC 27560 consent record information structure.
 
 **How to use this site**
