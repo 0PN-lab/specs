@@ -1,0 +1,20 @@
+site_name: 0PN Lab Specs
+site_description: Normative and supporting material for 0PN Lab specifications (ISO/IEC 27560 profile lineage).
+repo_url: https://github.com/0PN-lab/specs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - ISO/IEC TS 27560 (base standard): iso-27560.md
+  - UNR profile lineage:
+      - v1 (submission PDF): unr/v1.md
+      - v1.01 (baseline): unr/v1.01.md
+      - v1.1 (working draft): unr/v1.1.md
+      - v1.2 Digital Consent (consolidated): unr/v1.2.md
+  - Well-known locations:
+      - notice.txt: well-known/transparency/notice-txt.md
+  - Vocabularies:
+      - OCV (Operational Constraint Vocabulary): ocv/index.md
