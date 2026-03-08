@@ -1,15 +1,15 @@
-# DCR v1.2 — Digital Consent (Consolidated)
+# DCR v1.2.1 — Digital Consent (Consolidated)
 
 Code of Conduct Profile packaging built on the UNR profile lineage.
 
-Status: Consolidated draft (v1.2)
+Status: Consolidated draft (v1.2.1)
 
-Interpretation rule: v1.2 assumes UNR (v1 / v1.01) as prerequisite architecture.
+Interpretation rule: v1.2.1 assumes UNR (v1 / v1.01) as prerequisite architecture.
 
 ## Start here
 
-- Digital Consent (consolidated) — v1.2 draft:
-    - [https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v%201.2%20-%20Digital%20Notice%20%26%20Consent%20Profile%20/v1.2%20-%20Digital%20Consent%20(consolidated).md](https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v%201.2%20-%20Digital%20Notice%20%26%20Consent%20Profile%20/v1.2%20-%20Digital%20Consent%20(consolidated).md)
+- Digital Consent (consolidated) — v1.2.1 draft:
+    - https://github.com/0PN-lab/specs/blob/main/docs/unr/dcr/v1.2.1/
 
 ## Foundation (base standard)
 
@@ -30,9 +30,9 @@ Interpretation rule: v1.2 assumes UNR (v1 / v1.01) as prerequisite architecture.
 
 - https://github.com/0PN-lab/specs/blob/bd54d86fe8d063b6f935f1adf5cadb6adf85f928/27560%20profile%20/v1.1/v1.1%20UNRP.md
 
-## What v1.2 is
+## What v1.2.1 is
 
-v1.2 consolidates the UNR lineage into a single packaging framed as Digital Consent (Code of Conduct Profile), centered on:
+v1.2.1 consolidates the UNR lineage into a single packaging framed as Digital Consent (Code of Conduct Profile), centered on:
 
 - Controller-ID first disclosure before collection or inference
 - Bilateral proof-of-notice (two-party receipts)
@@ -47,8 +47,12 @@ v1.2 consolidates the UNR lineage into a single packaging framed as Digital Cons
 
 - Repository license: https://github.com/0PN-lab/specs/blob/main/LICENSE
 
+## Related versions
+
+- DCR v1.2 (consolidated): ../v1.2/
+
 ## Source
 
 This index file is intended to back the GitHub Pages route:
 
-- /specs/unr/dcr/v1.2/
+- /specs/unr/dcr/v1.2.1/
