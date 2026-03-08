@@ -19,6 +19,7 @@ This repository supports implementing the Convention 108+ Code of Conduct throug
 ## UNR prerequisite lineage
 
 - UNR v1.01 — Baseline: [Open UNR v1.01](unr/v1.01/)
+- UNR v1.02 — Baseline (delegation uplift): [Open UNR v1.02](unr/v1.02/)
 - UNR v1 — Submission draft (PDF wrapper): [Open UNR v1](unr/v1/)
 - UNR v1.1 — Deferred + enhancement set: [Open UNR v1.1](unr/v1.1/)
 - UNR v1.2 — updates to Digital Consent Record (DCR) information sharing (enhancement set): [Open DCR (formally UNR) v1.2](unr/v1.2/)
@@ -31,7 +32,7 @@ Versions
 
 - v1 (submitted baseline): ISO-27560 Extension /v 1/
 - v1.01: ISO-27560 Extension /v 1.01/
-- v1.02 (delegation baseline uplift): ISO-27560 Extension /v 1.02/[index.md](http://index.md)
+- v1.02 (delegation baseline uplift): ISO-27560 Extension /v 1.02/
 - v1.1: ISO-27560 Extension /v 1.1/
 - v1.2: ISO-27560 Extension /v 1.2/
 - v1.2.1: ISO-27560 Extension /v 1.2.1/
