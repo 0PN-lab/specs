@@ -44,3 +44,5 @@ Versions
 ## License
 
 - [License](https://github.com/0PN-lab/specs/blob/main/LICENSE)
+
+If the logo still doesn’t show on GitHub Pages after commit, it’s almost always because the file is not actually located at `docs/assets/0pn-lab.png` (case-sensitive) in the published branch/folder.
