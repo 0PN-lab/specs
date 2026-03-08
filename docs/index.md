@@ -13,8 +13,13 @@ This repository supports implementing the Convention 108+ Code of Conduct throug
 
 ## Start here
 
-- With the international consent record information structure as the baseline, then each version builds:
+- From the Beginning - this starts by extending the international consent record information structure as the baseline, then each version builds:
     - [ISO/IEC 27560:2023 TS Consent record information structure](iso-27560/)
+  
+  For Implementers - The full baseline that is stable is v 1.02 - Full Markdown 
+  - [Universal Notice Receipt Profile v1.02](unr/v1.02/))
+  - [Digital Consent record information structure](unr/v1.2.1) current 
+
 
 ## UNR prerequisite lineage
 
