@@ -7,7 +7,7 @@ This repository supports implementing the Convention 108+ Code of Conduct throug
 
 ## How to use this site
 
-- If you want the best overview, start with DCR v1.2.
+- If you want the best overview, start with Digital Consent Record [DCR v1.2.1](unr/v1.2.1)
 - If you want the most stable implementer reference, start with UNR v1.01.
 - Treat v1.1 as a working draft unless you are participating in a pilot or review.
 
