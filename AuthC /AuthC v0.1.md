@@ -1,7 +1,7 @@
-# AuthC v0.1 — Authority-First Specification for AuthN and AuthZ 
+# AuthC v0.1 — Authority-First Specification for AuthN and AuthZ
 Consent Based Digital-ID Protocol April 3, 2026
 
-## Draft IPR + participation 
+## Draft IPR + participation
 This initial AuthC v0.1 draft is published under **0PN RF-RAND** and governed by the **OPN Lab General Participation Agreement (GPA)** for work aligned to the **ISO/IEC 27560-1 profile**.
 
 ## Table of Contents (draft)
@@ -54,7 +54,7 @@ This specification covers:
 - The rule that only macro authority data (controller identification + authority scope disclosure) may travel as raw/open data across the internet.
 - Authority evolution through consensus, captured in AuthC Exchange outcomes and receipt history.
 
-### 1.3 Non-goals 
+### 1.3 Non-goals
 - Transport/API protocol details (left to implementation profiles)
 - Detailed cryptographic schemes (left to higher-assurance profiles)
 - Certification role mechanics (left to later versions)
