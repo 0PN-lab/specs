@@ -1,4 +1,4 @@
-# AuthC v0.1 — Authority-First Specification for AuthN and AuthZ
+# AuthC v0.1 — Authority-First Protocl Specification for AuthN and AuthZ Interoperability
 Consent Based Digital-ID Protocol April 3, 2026
 
 ## Draft IPR + participation
